@@ -1,7 +1,7 @@
 # 接続 (Setsuzoku)
 
 <p align="center">
-	A Java library that simplifies the process for making Discord & Guilded bots.
+	A Java library that simplifies the process of making Discord & Guilded bots.
 </p>
 
 
